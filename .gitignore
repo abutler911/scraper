@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Render build artifacts
+*.log
